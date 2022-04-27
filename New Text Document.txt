@@ -1,0 +1,6 @@
+This calculator is a attempt to calculate mathmatical statement.
+1) Here to ensure huge computation, all paranthesis is taken as first braket. 
+2) Declaration of sin,cos,tan,etc uses radian mode in default. To use in degree mood, use sind,cosd or tand symbol.
+3) Use "e" as a sign for "10^".
+
+** Operating function resize.
